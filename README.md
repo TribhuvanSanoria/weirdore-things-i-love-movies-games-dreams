@@ -4,14 +4,19 @@
 ***whats inside:***
 
 -movies and shows i love'
+
 -best way to experience them (totally candid and raw)
+
 -songs
+
 -games
+
 -like all the og shit what it will make you feel how to enjoy it properly etc!!
 
 ***built with***
 
 html
+
 css
 
 ***How i made it***
