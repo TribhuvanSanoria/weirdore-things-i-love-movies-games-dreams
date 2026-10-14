@@ -21,7 +21,7 @@ css
 
 ***How i made it***
 
-this my first personal project i built with so much dedication and from scartch tottaly on my own, i used ai help for style and colours but everything else like 98 percent built on my own !!
+this my first personal project i built with so much dedication and from scartch tottaly on my own, i used ai help for style and colours but everything else built on my own !!
 took me a long long time of 2 hours 1 coffee and 1 banana shake to get through this was kind of boring but i enjoyed a lot after i started getting a hang of things !!!!!!, and the website is kinda mid(very mid), but iam super proud i built something of my own getting inspired by hackclub phantom and getting a reason to do this and try to get into coding !!!
 also learnt how to publish projects and how to COMMMMIT, BUILD A REPO AND HOW TO WORK WITH GIT AND GITHUB BASCIALLY.
 
